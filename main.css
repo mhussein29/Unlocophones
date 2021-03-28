@@ -95,3 +95,10 @@ border: rgb(201, 198, 198);
       background-color: rgb(223, 219, 219);
       color: black;
   }
+  .contacter h1{
+      text-align: center;
+      font-size: x-large;
+  }
+.box{
+ padding: 50px;
+}
